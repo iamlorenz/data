@@ -15,7 +15,7 @@ Evan Turner;2.01;FALSE;220;Ohio State;G/F
 James Young;1.98;FALSE;215;Kentucky;G/F
 Tyler Zeller;2.13;FALSE;253;North Carolina;F/C
 Andrea Bargnani;2.13;TRUE;245;Italy;F/C
-Bojan Bogdanovi€à;2.03;TRUE;216;Croatia;G/F
+Bojan Bogdanovi√õÀÜ;2.03;TRUE;216;Croatia;G/F
 Markel Brown;1.93;FALSE;190;Oklahoma State;G
 Wayne Ellington;1.93;FALSE;200;North Carolina;G
 Rondae Hollis-Jefferson;2.01;FALSE;220;Arizona;F
@@ -32,16 +32,16 @@ Thaddeus Young;2.03;FALSE;221;Georgia Tech;F
 Arron Afflalo;1.96;FALSE;210;UCLA;G/F
 Lou Amundson;2.06;FALSE;220;UNLV;F/C
 Carmelo Anthony;2.03;FALSE;240;Syracuse;F
-JosÌ© CalderÌ_n;1.91;TRUE;200;Spain;G
+Jos√≠¬© Calder√≠_n;1.91;TRUE;200;Spain;G
 Cleanthony Early;2.03;FALSE;210;Wichita State;F
 Langston Galloway;1.88;FALSE;200;Saint Joseph's;G
 Jerian Grant;1.93;FALSE;195;Notre Dame;G
 Robin Lopez;2.13;FALSE;255;Stanford;C
 Kyle O'Quinn;2.08;FALSE;250;Norfolk State;F/C
-Kristaps PorziÅ €£is;2.21;TRUE;240;Latvia;F/C
-Kevin SÌ©raphin;2.06;TRUE;278;France;F/C
+Kristaps Porzi¬Å√ä√õ¬£is;2.21;TRUE;240;Latvia;F/C
+Kevin S√≠¬©raphin;2.06;TRUE;278;France;F/C
 Lance Thomas;2.03;FALSE;235;Duke;F
-Sasha Vuja€çi€‡;2.01;TRUE;195;Slovenia;G
+Sasha Vuja√õ¬çi√õ√†;2.01;TRUE;195;Slovenia;G
 Derrick Williams;2.03;FALSE;240;Arizona;F
 Isaiah Canaan;1.83;FALSE;201;Murray State;G
 Robert Covington;2.06;FALSE;215;Tennessee State;G/F
@@ -72,18 +72,18 @@ Patrick Patterson;2.06;FALSE;235;Kentucky;F/C
 Norman Powell;1.93;FALSE;215;UCLA;G
 Terrence Ross;1.96;FALSE;195;Washington;G/F
 Luis Scola;2.06;FALSE;240;Argentina;F
-Jonas Valan€çiÅÇnas;2.13;TRUE;255;Lithuania;C
+Jonas Valan√õ¬çi¬Å‚Äönas;2.13;TRUE;255;Lithuania;C
 Delon Wright;1.96;FALSE;190;Utah;G
 Cameron Bairstow;2.08;FALSE;252;New Mexico;F/C
 Aaron Brooks;1.83;FALSE;161;Oregon;G
 Jimmy Butler;2.01;FALSE;220;Marquette;G/F
-Mike Dunleavy, Jr.;2.06;FALSE;230;Duke;G/F
-Cristiano FelÌ_cio;2.08;FALSE;275;Brazil;F/C
+Mike Dunleavy Jr.;2.06;FALSE;230;Duke;G/F
+Cristiano Fel√≠_cio;2.08;FALSE;275;Brazil;F/C
 Pau Gasol;2.13;TRUE;250;Spain;F/C
 Taj Gibson;2.06;FALSE;225;Southern California;F/C
 Kirk Hinrich;1.93;FALSE;190;Kansas;G
 Doug McDermott;2.03;FALSE;225;Creighton;F
-Nikola Miroti€à;2.08;TRUE;220;Montenegro;F
+Nikola Miroti√õÀÜ;2.08;TRUE;220;Montenegro;F
 E'Twaun Moore;1.93;FALSE;191;Purdue;G
 Joakim Noah;2.11;FALSE;232;Florida;C
 Bobby Portis;2.11;FALSE;230;Arkansas;F
@@ -93,7 +93,7 @@ Jared Cunningham;1.93;FALSE;195;Oregon State;G
 Matthew Dellavedova;1.93;FALSE;198;Saint Mary's;G
 Joe Harris;1.98;FALSE;219;Virginia;G
 Kyrie Irving;1.91;FALSE;193;Duke;G
-LeBron James;2.03;FALSE;250;St. Vincent‰ÛÒSt. Mary HS (OH);F
+LeBron James;2.03;FALSE;250;St. Vincent√§√≥√±St. Mary HS (OH);F
 Richard Jefferson;2.01;FALSE;233;Arizona;G/F
 James Jones;2.03;FALSE;218;Miami (FL);G/F
 Sasha Kaun;2.11;FALSE;260;Kansas;C
@@ -102,7 +102,7 @@ Timofey Mozgov;2.16;TRUE;275;Russia;C
 Iman Shumpert;1.96;FALSE;220;Georgia Tech;G
 J. R. Smith;1.98;FALSE;225;St. Benedict's Prep (NJ);G/F
 Tristan Thompson;2.06;FALSE;238;Texas;F/C
-Anderson VarejÌ£o;2.11;FALSE;273;Brazil;F/C
+Anderson Varej√≠¬£o;2.11;FALSE;273;Brazil;F/C
 Mo Williams;1.83;FALSE;198;Alabama;G
 Joel Anthony;2.06;FALSE;245;UNLV;C
 Aron Baynes;2.08;FALSE;260;Washington State;F/C
@@ -112,7 +112,7 @@ Kentavious Caldwell-Pope;1.96;FALSE;205;Georgia;G
 Spencer Dinwiddie;1.98;FALSE;200;Colorado;G
 Andre Drummond;2.11;FALSE;279;Connecticut;C
 Darrun Hilliard;1.98;FALSE;205;Villanova;G/F
-Ersan €¡lyasova;2.08;TRUE;235;Turkey;F
+Ersan √õ√Ålyasova;2.08;TRUE;235;Turkey;F
 Reggie Jackson;1.91;FALSE;208;Boston College;G
 Brandon Jennings;1.85;FALSE;169;Oak Hill Academy (VA);G
 Stanley Johnson;2.01;FALSE;245;Arizona;F
@@ -147,7 +147,7 @@ Greg Monroe;2.11;FALSE;265;Georgetown;F/C
 Johnny O'Bryant III;2.06;FALSE;257;LSU;F
 Jabari Parker;2.03;FALSE;250;Duke;F
 Miles Plumlee;2.11;FALSE;249;Duke;C
-Greivis VÌÁsquez;1.98;FALSE;217;Maryland;G
+Greivis V√≠√ßsquez;1.98;FALSE;217;Maryland;G
 Rashad Vaughn;1.98;FALSE;202;UNLV;G
 Kent Bazemore;1.96;FALSE;201;Old Dominion;G
 Tim Hardaway, Jr.;1.98;FALSE;205;Michigan;G
@@ -158,7 +158,7 @@ Shelvin Mack;1.91;FALSE;203;Butler;G
 Paul Millsap;2.01;FALSE;246;Louisiana Tech;F
 Mike Muscala;2.11;FALSE;240;Bucknell;F/C
 Lamar Patterson;1.96;FALSE;225;Pittsburgh;G/F
-Dennis SchrÌ_der;1.83;TRUE;172;Germany;G
+Dennis Schr√≠_der;1.83;TRUE;172;Germany;G
 Mike Scott;2.03;FALSE;237;Virginia;F
 Thabo Sefolosha;2.01;TRUE;220;Switzerland;G/F
 Tiago Splitter;2.11;FALSE;245;Brazil;F/C
@@ -182,7 +182,7 @@ Cody Zeller;2.13;FALSE;240;Indiana;F/C
 Chris Andersen;2.08;FALSE;245;Blinn College;C
 Chris Bosh;2.11;FALSE;235;Georgia Tech;F/C
 Luol Deng;2.06;FALSE;220;Duke;F
-Goran Dragi€à;1.91;TRUE;190;Slovenia;G
+Goran Dragi√õÀÜ;1.91;TRUE;190;Slovenia;G
 Gerald Green;2.03;FALSE;205;Gulf Shores Academy (TX);G
 Udonis Haslem;2.03;FALSE;235;Florida;F
 Tyler Johnson;1.93;FALSE;186;Fresno State;G
@@ -206,7 +206,7 @@ Andrew Nicholson;2.06;FALSE;250;St. Bonaventure;F
 Victor Oladipo;1.93;FALSE;210;Indiana;G
 Elfrid Payton;1.93;FALSE;185;Louisiana-Lafayette;G
 Jason Smith;2.13;FALSE;240;Colorado State;F/C
-Nikola Vu€çevi€‡;2.13;TRUE;260;Southern California;C
+Nikola Vu√õ¬çevi√õ√†;2.13;TRUE;260;Southern California;C
 C. J. Watson;1.88;FALSE;175;Tennessee;G
 Alan Anderson;1.98;FALSE;220;Michigan State;G/F
 Bradley Beal;1.96;FALSE;207;Florida;G
@@ -216,7 +216,7 @@ Drew Gooden;2.08;FALSE;250;Kansas;F/C
 Marcin Gortat;2.11;TRUE;240;Poland;C
 Kris Humphries;2.06;FALSE;235;Minnesota;F
 Gary Neal;1.93;FALSE;210;Towson;G
-NenÌ»;2.11;FALSE;250;Brazil;F/C
+Nen√≠√à;2.11;FALSE;250;Brazil;F/C
 Kelly Oubre Jr.;2.01;FALSE;205;Kansas;G/F
 Otto Porter;2.03;FALSE;198;Georgetown;F
 Ramon Sessions;1.91;FALSE;190;Nevada;G
@@ -224,7 +224,7 @@ Garrett Temple;1.98;FALSE;195;LSU;G
 John Wall;1.93;FALSE;195;Kentucky;G
 Martell Webster;2.01;FALSE;230;Seattle Preparatory (WA);G/F
 Justin Anderson;1.98;FALSE;228;Virginia;G/F
-JosÌ© Juan Barea;1.83;FALSE;185;Northeastern;G
+Jos√≠¬© Juan Barea;1.83;FALSE;185;Northeastern;G
 Jeremy Evans;2.06;FALSE;200;Western Kentucky;F
 Raymond Felton;1.85;FALSE;205;North Carolina;G
 Devin Harris;1.91;FALSE;185;Wisconsin;G
@@ -249,7 +249,7 @@ Dwight Howard;2.11;FALSE;265;SW Atlanta Academy (GA);C
 Terrence Jones;2.06;FALSE;252;Kentucky;F
 Ty Lawson;1.8;FALSE;195;North Carolina;G
 K. J. McDaniels;1.98;FALSE;205;Clemson;G/F
-Donatas MotiejÅÇnas;2.13;TRUE;222;Lithuania;F/C
+Donatas Motiej¬Å‚Äönas;2.13;TRUE;222;Lithuania;F/C
 Jason Terry;1.88;FALSE;185;Arizona;G
 Marcus Thornton;1.93;FALSE;205;LSU;G
 Jordan Adams;1.96;FALSE;209;UCLA;G
@@ -267,9 +267,9 @@ Jarell Martin;2.06;FALSE;239;LSU;F
 Zach Randolph;2.06;FALSE;260;Michigan State;F
 Russ Smith;1.83;FALSE;165;Louisville;G
 Brandan Wright;2.08;FALSE;210;North Carolina;F/C
-Alexis AjinÌ_a;2.18;TRUE;248;INSEP (FRA);C
+Alexis Ajin√≠_a;2.18;TRUE;248;INSEP (FRA);C
 Ryan Anderson;2.08;FALSE;240;California;F
-Ì_mer AÅÙ€±k;2.13;TRUE;255;Turkey;C
+√≠_mer A¬Å√¥√õ¬±k;2.13;TRUE;255;Turkey;C
 Luke Babbitt;2.06;FALSE;225;Nevada;F
 Norris Cole;1.88;FALSE;175;Cleveland State;G
 Dante Cunningham;2.03;FALSE;230;Villanova;F
@@ -288,10 +288,10 @@ Matt Bonner;2.08;FALSE;235;Florida;C
 Rasual Butler;2.01;FALSE;215;La Salle;G
 Boris Diaw;2.03;TRUE;250;INSEP (FRA);F/C
 Tim Duncan;2.11;FALSE;255;Wake Forest;F/C
-Manu GinÌ_bili;1.98;FALSE;205;Argentina;G
+Manu Gin√≠_bili;1.98;FALSE;205;Argentina;G
 Danny Green;1.98;FALSE;215;North Carolina;G/F
 Kawhi Leonard;2.01;FALSE;230;San Diego State;F
-Boban Marjanovi€à;2.21;TRUE;290;Serbia;C
+Boban Marjanovi√õÀÜ;2.21;TRUE;290;Serbia;C
 Ray McCallum, Jr.;1.91;FALSE;190;Detroit;G
 Patty Mills;1.83;FALSE;185;Saint Mary's;G
 Tony Parker;1.88;TRUE;185;INSEP (FRA);G
@@ -305,12 +305,12 @@ Randy Foye;1.93;FALSE;213;Villanova;G
 Danilo Gallinari;2.08;TRUE;225;Italy;F
 Gary Harris;1.93;FALSE;210;Michigan State;G
 JJ Hickson;2.06;FALSE;242;North Carolina State;F/C
-Nikola Joki€à;2.11;TRUE;250;Serbia;C
+Nikola Joki√õÀÜ;2.11;TRUE;250;Serbia;C
 Joffrey Lauvergne;2.11;TRUE;220;France;F/C
 Mike Miller;2.03;FALSE;218;Florida;G/F
 Emmanuel Mudiay;1.96;FALSE;200;Prime Prep Academy (TX);G
 Jameer Nelson;1.83;FALSE;190;Saint Joseph's;G
-Jusuf Nurki€à;2.11;TRUE;280;Bosnia and Herzegovina;C
+Jusuf Nurki√õÀÜ;2.11;TRUE;280;Bosnia and Herzegovina;C
 Kostas Papanikolaou;2.03;TRUE;235;Greece;F
 Nemanja Bjelica;2.08;TRUE;240;Serbia;F
 Gorgui Dieng;2.11;FALSE;241;Louisville;C
@@ -321,10 +321,10 @@ Kevin Martin;2.01;FALSE;199;Western Carolina;G
 Andre Miller;1.88;FALSE;200;Utah;G
 Shabazz Muhammad;1.98;FALSE;223;UCLA;G/F
 Adreian Payne;2.08;FALSE;237;Michigan State;F/C
-Nikola Pekovi€à;2.11;TRUE;307;Montenegro;C
+Nikola Pekovi√õÀÜ;2.11;TRUE;307;Montenegro;C
 Tayshaun Prince;2.06;FALSE;212;Kentucky;F
 Ricky Rubio;1.93;TRUE;194;Spain;G
-Damjan RudeÅ_;2.08;TRUE;228;Croatia;F
+Damjan Rude¬Å_;2.08;TRUE;228;Croatia;F
 Karl-Anthony Towns;2.13;FALSE;244;Kentucky;C
 Andrew Wiggins;2.03;FALSE;199;Kansas;G/F
 Steven Adams;2.13;FALSE;255;Pittsburgh;C
@@ -338,7 +338,7 @@ Mitch McGary;2.08;FALSE;255;Michigan;F
 Anthony Morrow;1.96;FALSE;210;Georgia Tech;G
 Steve Novak;2.08;FALSE;225;Marquette;F
 Cameron Payne;1.91;FALSE;185;Murray State;G
-AndrÌ© Roberson;2.01;FALSE;210;Colorado;G/F
+Andr√≠¬© Roberson;2.01;FALSE;210;Colorado;G/F
 Kyle Singler;2.03;FALSE;228;Duke;F
 Dion Waiters;1.93;FALSE;220;Syracuse;G
 Russell Westbrook;1.91;FALSE;200;UCLA;G
@@ -368,9 +368,9 @@ Rodney Hood;2.03;FALSE;206;Duke;F
 Joe Ingles;2.03;FALSE;226;Lake Ginninderra (AUS);G/F
 Chris Johnson;1.98;FALSE;206;Dayton;G/F
 Trey Lyles;2.08;FALSE;234;Kentucky;F
-Elijah Millsap;1.98;FALSE;225;Alabama‰ÛÒBirmingham;G/F
+Elijah Millsap;1.98;FALSE;225;Alabama√§√≥√±Birmingham;G/F
 Raulzinho Neto;1.88;FALSE;179;Brazil;G
-Tibor PleiÌÙ;2.18;TRUE;256;Germany;C
+Tibor Plei√≠√¥;2.18;TRUE;256;Germany;C
 Jeff Withey;2.13;FALSE;231;Kansas;C
 Leandro Barbosa;1.91;FALSE;194;Brazil;G
 Harrison Barnes;2.03;FALSE;225;North Carolina;F
@@ -427,7 +427,7 @@ Alex Len;2.16;TRUE;260;Maryland;C
 Jon Leuer;2.08;FALSE;228;Wisconsin;F/C
 Markieff Morris;2.08;FALSE;245;Kansas;F
 Ronnie Price;1.88;FALSE;190;Utah Valley State;G
-Mirza Teletovi€à;2.06;TRUE;242;Bosnia and Herzegovina;F
+Mirza Teletovi√õÀÜ;2.06;TRUE;242;Bosnia and Herzegovina;F
 P. J. Tucker;1.98;FALSE;245;Texas;F
 T. J. Warren;2.03;FALSE;230;North Carolina State;F
 Sonny Weems;1.98;FALSE;205;Arkansas;G/F
